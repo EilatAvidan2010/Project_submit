@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328"</DEVICE>
+ <WORKING_DIR>C:\Users\Eilat\Desktop\UNLV\Spring2018\CPE301\assignment02\part03\asm\part03\part03\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Eilat\Desktop\UNLV\Spring2018\CPE301\assignment02\part03\asm\part03\part03\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\M328DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Eilat\Desktop\UNLV\Spring2018\CPE301\assignment02\part03\asm\part03\part03\Debug\part03.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>part03.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>part03.map</FILE>
+  <FILE>part03.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <begin><FILE>C:\Users\Eilat\Desktop\UNLV\Spring2018\CPE301\assignment02\part03\asm\part03\part03\main.asm</FILE><LINE>15</LINE></begin>
+  <delay><FILE>C:\Users\Eilat\Desktop\UNLV\Spring2018\CPE301\assignment02\part03\asm\part03\part03\main.asm</FILE><LINE>20</LINE></delay>
+  <lp><FILE>C:\Users\Eilat\Desktop\UNLV\Spring2018\CPE301\assignment02\part03\asm\part03\part03\main.asm</FILE><LINE>27</LINE></lp>
+  <done><FILE>C:\Users\Eilat\Desktop\UNLV\Spring2018\CPE301\assignment02\part03\asm\part03\part03\main.asm</FILE><LINE>31</LINE></done>
+ </LABELS>
+</ASSEMBLER_INFO>
